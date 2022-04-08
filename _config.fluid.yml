@@ -87,7 +87,7 @@ fun_features:
 
     # 游标字符
     # Cursor character
-    cursorChar: "_"
+    cursorChar: "|"
 
     # 是否循环播放效果
     # If true, loop animation
@@ -194,7 +194,8 @@ color:
 # Font
 font:
   font_size: 16px
-  font_family:
+  #font_family:
+  font-family: "IBM Plex Mono", "LXGW WenKai Lite", "Noto Serif SC","Noto Sans SC", -apple-system, "Microsoft Yahei-Regular", "Microsoft Yahei"
   letter_spacing: 0.02em
   code_font_size: 85%
 
