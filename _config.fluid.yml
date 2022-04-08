@@ -194,8 +194,8 @@ color:
 # Font
 font:
   font_size: 16px
-  #font_family:
-  font_family: "IBM Plex Mono", "LXGW WenKai Lite", "Noto Serif SC","Noto Sans SC", -apple-system, "Microsoft Yahei-Regular", "Microsoft Yahei"
+  font_family:
+  #font_family: "IBM Plex Mono", "LXGW WenKai Lite", "Noto Serif SC","Noto Sans SC", -apple-system, "Microsoft Yahei-Regular", "Microsoft Yahei"
   letter_spacing: 0.02em
   code_font_size: 85%
 
